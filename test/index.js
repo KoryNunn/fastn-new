@@ -1,0 +1,5 @@
+require('./component')
+require('./children')
+require('./properties')
+require('./binding')
+require('./fastn')

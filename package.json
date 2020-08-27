@@ -1,0 +1,23 @@
+{
+  "name": "fastn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --expose-gc test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^5.0.0"
+  },
+  "dependencies": {
+    "enti": "^6.4.2",
+    "function-emitter": "^1.0.0",
+    "observatron": "git+https://github.com/markwylde/observatron.git"
+  }
+}
